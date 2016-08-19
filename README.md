@@ -15,3 +15,6 @@ How to use:
 Set your settings to your won needs in settings.php
 
 Open poll.php in your browser and poll is ready to use
+
+
+
