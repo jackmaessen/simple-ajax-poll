@@ -1,0 +1,75 @@
+.quickpollwrapper {
+  width: 550px;
+}
+	     
+.progresspoll {
+  border: 1px solid #ddd;
+    
+}
+.progresspoll > .percentpollgraph { 
+  color: white; 
+  background: #ddd;
+  overflow: hidden;
+  white-space: nowrap; 
+  
+  min-height: 20px;
+  animation: progresspollgraph 3s;
+}
+
+@keyframes progresspollgraph {
+   0% { width: 0; }
+}
+table.quickpolltable {
+  border-spacing: 1px;
+}
+tr.quickpollrow {
+  border-collapse: collapse;
+  outline: 1px solid #ddd; 
+}
+tr.quickpollrow td {
+  padding: 5px;  
+}
+td.quickpollgraphic {
+vertical-align: middle;
+width: 100%;
+}
+
+input.quickpollinput {
+cursor: pointer;
+}
+input.quickpollsubmit {
+  border: 1px solid #ddd;
+  cursor: pointer;
+  background-color: #e5e5e5;
+}
+input.quickpollsubmit:hover {
+  border: 1px solid #ccc;
+
+}
+td.quickpollpercent {
+vertical-align: middle;
+padding-left: 2px;
+}
+td.quickpollcount {
+vertical-align: middle;
+padding-left: 2px;	
+}
+
+.alreadyvoted, .noinput, .exceeded, .quickpollexpired {
+color: red;
+}
+.votingsuccess {
+color: #33c933;
+font-weight: bold;
+}
+.count {
+padding-left: 5px;
+}
+
+hr {
+border:solid #cecece 1px;
+}
+
+.votehidden {
+  display: none;
+}
