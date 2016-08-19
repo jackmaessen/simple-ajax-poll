@@ -1,6 +1,6 @@
 # simple-ajax-poll
 
-Simple AJAX poll without database! Data will be storde in a .txt file. It checks on IP address; everybody can vote only once with the same IP address.
+Simple AJAX poll without database! Data will be stored in a .txt file. It checks on IP address; everybody can vote only once with the same IP address.
 It comes with a settings file (settings.php) in which you can set your poll to your own needs.
 
 **Features:**
