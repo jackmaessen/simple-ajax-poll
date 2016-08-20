@@ -22,4 +22,4 @@ Open poll.php in your browser and poll is ready to use
 ![ScreenShot](http://develop3.webprofis.nl/poll/data/poll2.jpg)
 
 **Demo**
-http://http://develop3.webprofis.nl/poll/poll.php
+http://develop3.webprofis.nl/poll/poll.php
