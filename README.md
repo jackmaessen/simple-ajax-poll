@@ -12,7 +12,7 @@ It comes with a settings file (settings.php) in which you can set your poll to y
 
 **How to use:**
 
-Set your settings to your won needs in settings.php
+Set your settings to your own needs in settings.php
 
 Open poll.php in your browser and poll is ready to use
 
