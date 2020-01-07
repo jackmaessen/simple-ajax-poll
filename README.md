@@ -18,8 +18,8 @@ Open poll.php in your browser and poll is ready to use
 
 **Screenshots:**
 
-![ScreenShot](http://develop3.webprofis.nl/poll/data/poll1.jpg)
-![ScreenShot](http://develop3.webprofis.nl/poll/data/poll2.jpg)
+![ScreenShot](http://poll.webprofis.nl/poll1.jpg)
+![ScreenShot](http://poll.webprofis.nl/poll2.jpg)
 
 **Demo**
 
