@@ -23,4 +23,4 @@ Open poll.php in your browser and poll is ready to use
 
 **Demo**
 
-http://develop3.webprofis.nl/poll/poll.php
+http://poll.webprofis.nl/poll.php
